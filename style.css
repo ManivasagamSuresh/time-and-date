@@ -1,0 +1,28 @@
+.container{
+    height: 100vh;
+}
+.row{
+    height: 100vh;
+   display: flex;
+   /* flex-direction: row; */
+   justify-content: center;
+   align-items: center; 
+   /* justify-content: space-around; */
+}
+#Time{
+    color: red;
+    font-weight: 500;
+    font-size: 70px;
+}
+
+#Day{
+    color: gray;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+#Date{
+    color: gray;
+    font-weight: 500;
+    font-size: 40px;
+}
